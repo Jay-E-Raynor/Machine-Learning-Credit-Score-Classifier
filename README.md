@@ -1,2 +1,2 @@
 # Machine Learning
-## Credit-Score-Classifier
+## Credit Score Classifier
